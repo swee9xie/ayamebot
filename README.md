@@ -1,2 +1,2 @@
 # ayamebot
-ayame bot onaylı bot altyapısıdır 
+onaylı ayame altyapısı olucak burda askm
